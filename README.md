@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working as Intern in Amrita WNA<br>🙋‍♂️CSE-AI student,<br>📍Amrita School Of Engineering, Amritapuri, Kerala<br>🌱 I’m currently learning ML And DL<br>💬 Ask me about anything, I am happy to help<br>⚡ Fun fact, i love Anime
 
+# Portfolio
+Link -> https://v0-portfolio-website-build-orcin-xi.vercel.app/
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ketchup7b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiran_1204_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/indra-kiran-95ba95286/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/indrakiran7b) 
