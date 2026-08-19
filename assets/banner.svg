@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Indra Kiran  software engineer">
+  <rect width="1200" height="340" fill="#171411"/>
+  <rect x="36" y="36" width="1128" height="268" fill="none" stroke="#efeae2" stroke-opacity="0.18"/>
+  <text x="72" y="92" fill="#c44512" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="4">.identity</text>
+  <text x="72" y="178" fill="#efeae2" font-family="Georgia, 'Times New Roman', serif" font-size="72">indra.kiran</text>
+  <rect x="72" y="204" width="88" height="3" fill="#c44512"/>
+  <text x="72" y="250" fill="#efeae2" fill-opacity="0.72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1.5">software engineer  ·  AI systems  ·  full-stack</text>
+  <text x="1128" y="250" text-anchor="end" fill="#efeae2" fill-opacity="0.45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">AMRITA  ·  2025</text>
+</svg>
