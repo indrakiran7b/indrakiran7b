@@ -16,7 +16,7 @@ I build full-stack applications, backend systems, and production AI features. My
 | [MediScribe](https://github.com/indrakiran7b/MediScribe) | Clinical documentation from conversation — structured EHR so the note does not compete with the patient. |
 | [Prompt-Based XAI](https://github.com/indrakiran7b/GE-Health-Care-Hackthon) | ECG classification with a 1D CNN, then natural-language explanations a clinician can inspect. |
 
-Also: [Healthcare AI Club](https://www.amhai.in/) · founder, [Amrita Blockchain Club](https://github.com/indrakiran7b) (80+ members) · 1st prize, [SuperAgri](https://github.com/indrakiran7b/SuperAgri) ideathon.
+Also: Member,[Healthcare AI Club](https://www.amhai.in/) · founder, [Amrita Blockchain Club](https://github.com/indrakiran7b) (80+ members) · 1st prize, [SuperAgri](https://github.com/indrakiran7b/SuperAgri) ideathon.
 
 ---
 
